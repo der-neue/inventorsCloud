@@ -1,0 +1,11 @@
+.login-container{
+    display: grid;
+    place-items: center;
+
+    overflow: hidden;
+    overflow: -moz-hidden-unscrollable;
+    resize: none;
+
+    width: 100vw;
+    height: 100vh;
+}
